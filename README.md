@@ -2,6 +2,9 @@
 
 A modern Flutter AI chat application interface with a clean MVVM architecture.
 
+![Login Screen](screenshots/welcome.jpg) | ![Register Screen](screenshots/chat.jpg) | ![Reset Password](screenshots/history.jpg)
+---|---|---
+
 ## Features
 
 - Clean MVVM architecture for separation of concerns
@@ -53,6 +56,6 @@ This is a UI-only implementation. To make it functional, you'll need to:
 2. Complete the business logic in `chat_viewmodel.dart`
 3. Connect the UI to the ViewModel using Provider
 
-## Screenshots
-
-[Add screenshots here]
+Getting start :-
+``` bash
+git clone https://github.com/sayedyounis00/Ai-chaty.git
