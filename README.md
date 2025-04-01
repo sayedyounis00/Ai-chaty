@@ -45,11 +45,6 @@ lib/
 - provider: For MVVM state management
 - intl: For date formatting
 
-## Asset Requirements
-
-- Place a subtle pattern in ``
-- Add Poppins font files to ``
-
 ## Note
 
 This is a UI-only implementation. To make it functional, you'll need to:
